@@ -47,7 +47,7 @@
 
 ## Links úteis sobre o Git.
 
-[Git Prático - Roger Dudler](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
-[Guia para iniciantes - Rocketseat](https://www.youtube.com/watch?v=2alg7MQ6_sI)
-[Iniciando no Git - Rocketseat](https://www.youtube.com/watch?v=MW7hrQe6aYo)
-[Curso completo Git - Bóson Treinamento](https://www.youtube.com/watch?v=YnVnFanIAzU&list=PLucm8g_ezqNq0dOgug6paAkH0AQSJPlIe)
+* [Git Prático - Roger Dudler](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
+* [Guia para iniciantes - Rocketseat](https://www.youtube.com/watch?v=2alg7MQ6_sI)
+* [Iniciando no Git - Rocketseat](https://www.youtube.com/watch?v=MW7hrQe6aYo)
+* [Curso completo Git - Bóson Treinamento](https://www.youtube.com/watch?v=YnVnFanIAzU&list=PLucm8g_ezqNq0dOgug6paAkH0AQSJPlIe)
