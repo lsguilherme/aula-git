@@ -45,6 +45,10 @@
 * `vim [nome do arquivo e formato]` // escrever no arquivo. 
 - Para sair do **vim** basta clicar **ESC** e escrever **:wq**
 
+##CheatSheet
+
+![3684fdd4-1c0d-4dc8-a71a-24d90324dd0e](https://user-images.githubusercontent.com/83317386/171023048-07c7323a-ea35-4b97-9b2c-c6473fb50912.jpg)
+
 ## Links úteis sobre o Git.
 
 * [Git Prático - Roger Dudler](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
